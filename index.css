@@ -1,0 +1,19 @@
+#more{
+    display: none;
+}
+#btn{
+    width: 83px;
+    height: 25px;
+    border-radius: 7px;
+    margin: 6px;
+}
+
+
+#btn:hover {
+  background-color: brown;
+   color: black;
+  border: 2px solid #e7e7e7;
+}
+p{
+  margin: 1px;
+}
